@@ -3,3 +3,4 @@ manuscript
 
 1. Classification Problem
 classification_Manuscript_2019_05_11.jpg
+lassification_Manuscript_2019_05_11.pdf
